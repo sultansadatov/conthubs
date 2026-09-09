@@ -1,0 +1,13 @@
+*.pyc
+media/*
+.idea/
+.venv/
+*.pyc
+.git/
+bin/dev/pgdb
+bin/dev/redisdb
+bin/prod/pgdb
+bin/prod/redisdb
+__pycache__/
+__pycache__
+.git
